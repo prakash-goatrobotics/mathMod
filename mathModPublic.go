@@ -16,4 +16,8 @@ func Div(a, b int) int {
 	return a / b
 }
 
+func Mod(a, b int) int {
+	return a % b
+}
+
 
